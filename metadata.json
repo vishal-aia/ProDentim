@@ -1,0 +1,6 @@
+{
+  "name": "ProDentim Official",
+  "description": "The unique chewable oral probiotic for healthy teeth and gums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
